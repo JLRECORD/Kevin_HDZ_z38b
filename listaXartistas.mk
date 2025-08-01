@@ -1,0 +1,1 @@
+[{"artista":"Kevin HDZ","foto":"https://cdn.jsdelivr.net/gh/JLRECORD/Kevin_HDZ_z38b/aaaaa.jpg","musica":"https://cdn.jsdelivr.net/gh/JLRECORD/Kevin_HDZ_z38b/aaaaa.mp3","campo1":"Pop","id":"Bz2lp","campo2":"https://jlrecord.github.io/Kevin_HDZ_z38b/aaaaa.html","publicacion":"aaaaa"}]
